@@ -6,7 +6,7 @@ hero:
   name: "IG Auto Follow"
   text: "Grow your Instagram Account Organically without getting BANNED!  "
   tagline: Use this extension on any Instagram profile to Auto Follow from their followers or following.
-  image: /images/icon.png
+  image: /icon.png
   actions:
     - theme: brand
       text: Add to Chrome
