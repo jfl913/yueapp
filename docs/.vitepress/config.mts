@@ -2,19 +2,15 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "My Awesome Project",
-  description: "A VitePress Site",
+  title: "Yue Apps",
+  description: "Yue Apps Site",
   head: [ 
+    ['link', { rel: 'icon', href: '/favicon.ico' }],
       // https://codybontecou.com/tailwindcss-with-vitepress.html
-      ['link', { rel: 'stylesheet', href: 'https://unpkg.com/tailwindcss@2.0.4/dist/tailwind.min.css' }]
+    ['link', { rel: 'stylesheet', href: 'https://unpkg.com/tailwindcss@2.0.4/dist/tailwind.min.css' }]
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
-    ],
-
     sidebar: [
       {
         text: 'Examples',
@@ -26,7 +22,13 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
-  }
+      { icon: 'twitter', link: 'https://twitter.com/AppsYue1181' }
+    ],
+
+    footer: {
+      message: 'All rights reserved.',
+      copyright: 'Copyright © 2023-present Yue Apps.'
+    }
+  },
+  appearance: false
 })
