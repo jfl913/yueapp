@@ -43,7 +43,7 @@
                          class="flex flex-col p-6 mx-auto max-w-lg text-center text-gray-900 bg-white rounded-lg border border-gray-100 shadow dark:border-gray-600 xl:p-8 dark:bg-gray-800 dark:text-white">
                         <h3 class="mb-4 text-2xl font-semibold">Monthly PRO</h3>
                         <div class="flex justify-center items-baseline my-8">
-                            <span class="mr-2 text-5xl font-extrabold">$9</span>
+                            <span class="mr-2 text-5xl font-extrabold">$4.9</span>
                             <span class="text-gray-500 dark:text-gray-400" dark:text-gray-400>/month</span>
                         </div>
                         <ul role="list" class="mb-8 space-y-4 text-left">
@@ -71,7 +71,7 @@
                          class="flex flex-col p-6 mx-auto max-w-lg text-center text-gray-900 bg-white rounded-lg border border-gray-100 shadow dark:border-gray-600 xl:p-8 dark:bg-gray-800 dark:text-white">
                         <h3 class="mb-4 text-2xl font-semibold">Yearly PRO</h3>
                         <div class="flex justify-center items-baseline my-8">
-                            <span class="mr-2 text-5xl font-extrabold">$99</span>
+                            <span class="mr-2 text-5xl font-extrabold">$49.9</span>
                             <span class="text-gray-500 dark:text-gray-400">/year</span>
                         </div>
                         <ul role="list" class="mb-8 space-y-4 text-left">
