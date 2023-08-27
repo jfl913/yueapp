@@ -3,26 +3,25 @@
 layout: home
 
 hero:
-  name: "IG Auto Follow"
-  text: "Grow your Instagram Account Organically without getting BANNED!  "
-  tagline: Use this extension on any Instagram profile to Auto Follow from their followers or following.
+  name: "Super Bookmarks"
+  text: "Open your bookmarks conveniently and quickly"
+  tagline: You only need to press the shortcut key (Ctrl+B on Windows, Command+E on Mac) to quickly open this extension and open bookmarks. At the same time, Super Bookmarks also supports search function, which can quickly find the bookmarks you need to open.
   image: /icon.png
   actions:
     - theme: brand
       text: Add to Chrome
       link: https://chrome.google.com/webstore/detail/ig-auto-follow/iiaohnpoogjkomcdkhdfljgpglejpaad?hl=zh-CN&authuser=0
-    # - theme: alt
-    #   text: API Examples
-    #   link: /api-examples
 
 features:
   - title: Feature One
-    details: Auto Follow from any Profile.
+    details: Command + E(Mac)、Ctrl+B(Windows) to quickly access bookmarks.
   - title: Feature Two
-    details: Auto Follow from their followers or following.
+    details: Enter keywords directly to search.
   - title: Feature Three
-    details: Grow your Instagram Account Organically without getting BANNED! 
+    details: More features are coming soon.
 ---
+
+<img src="./screenshot.png" style="margin: 40px auto 0px auto;width: 1150px;" alt="Super Bookmarks">
 
 <script setup>
     import Pricing from './Pricing.vue'
