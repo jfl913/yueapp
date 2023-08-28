@@ -16,7 +16,7 @@ export default defineConfig({
     ],
 
     footer: {
-      message: 'All rights reserved.',
+      message: '<a href="./refund-policy">Refund Policy</a> | <a href="./terms-service">Terms of Service</a> | <a href="./privacy-policy">Privacy policy</a>.',
       copyright: 'Copyright © 2023-present Yue Apps.'
     }
   },
