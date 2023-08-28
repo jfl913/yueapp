@@ -18,7 +18,7 @@ features:
   - title: Feature Two
     details: Enter keywords directly to search.
   - title: Feature Three
-    details: More features are coming soon.
+    details: More features(manage bookmarks, edit bookmarks, drag and drop bookmarks) are coming soon.
 ---
 
 <img src="./screenshot.png" style="margin: 40px auto 0px auto;width: 1150px;" alt="Super Bookmarks">
