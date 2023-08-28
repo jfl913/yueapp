@@ -6,6 +6,7 @@
                     <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">Pricing & Plans
                     </h2>
                     <p class="mb-5 font-light text-gray-500 sm:text-xl dark:text-gray-400">100% MONEY-BACK GUARANTEE</p>
+                    <p class="mb-5 font-light text-gray-500 sm:text-xl dark:text-gray-400">If you are not satisfied with our service within 7 days, you can apply for a full refund.</p>
                 </div>
                 <div class="space-y-8 lg:grid lg:grid-cols-2 sm:gap-6 xl:gap-10 lg:space-y-0">
                     <div
