@@ -29,7 +29,7 @@
                     </div>
                     <div
                          class="flex flex-col p-6 mx-auto max-w-lg text-center text-gray-900 bg-white rounded-lg border border-gray-100 shadow dark:border-gray-600 xl:p-8 dark:bg-gray-800 dark:text-white">
-                        <h3 class="mb-4 text-2xl font-semibold">Lifetime PrO</h3>
+                        <h3 class="mb-4 text-2xl font-semibold">Lifetime Pro</h3>
                         <div class="flex justify-center items-baseline my-8">
                             <span class="mr-2 text-5xl font-extrabold">$4.9</span>
                         </div>
