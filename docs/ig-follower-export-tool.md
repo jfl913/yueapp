@@ -23,8 +23,10 @@ features:
 
 <script setup>
     import IGFollowerExportToolPricing from './components/IGFollowerExportToolPricing.vue'
+    import IGFollowerExportToolFAQ from './components/IGFollowerExportToolFAQ.vue'
     import Checkout from './Checkout.vue'
 </script>
 
 <IGFollowerExportToolPricing />
+<IGFollowerExportToolFAQ />
 <Checkout />
