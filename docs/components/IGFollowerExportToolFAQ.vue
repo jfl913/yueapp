@@ -63,7 +63,7 @@ import { ref } from 'vue'
                             </svg>
                             How to refund?
                         </h3>
-                        <p class="text-gray-500 dark:text-gray-400">You can refund within 7 days, just send an email to jfl913@gmail.com and tell us your account email and receipt order id, You will receive your refund in the next few days.</p>
+                        <p class="text-gray-500 dark:text-gray-400">You can refund within 7 days, just send an email to <a href="mailto:jfl913@gmail.com">jfl913@gmail.com</a> and tell us your account email and receipt order id, You will receive your refund in the next few days.</p>
                     </div>
                 </div>
             </div>
