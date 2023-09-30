@@ -7,7 +7,8 @@ export default defineConfig({
   head: [ 
     ['link', { rel: 'icon', href: '/favicon.ico' }],
       // https://codybontecou.com/tailwindcss-with-vitepress.html
-    ['link', { rel: 'stylesheet', href: 'https://unpkg.com/tailwindcss@2.0.4/dist/tailwind.min.css' }]
+    ['link', { rel: 'stylesheet', href: 'https://unpkg.com/tailwindcss@2.0.4/dist/tailwind.min.css' }],
+    ['script', { src: 'https://cdn.paddle.com/paddle/v2/paddle.js' }]
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
