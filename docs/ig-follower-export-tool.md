@@ -29,4 +29,4 @@ features:
 
 <IGFollowerExportToolPricing />
 <IGFollowerExportToolFAQ />
-<Checkout />
+<Checkout chrome-extension-name="ig_follower_export_tool" />

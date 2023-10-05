@@ -1,19 +1,26 @@
 <script setup>
+const props = defineProps(['chromeExtensionName'])
+
 import { onMounted } from 'vue'
 
 let userId = ''
 let email = ''
-let chromeExtensionName = 'ig_follower_export_tool'
+let priceId = ''
+let chromeExtensionName = props.chromeExtensionName
 
 onMounted(() => {
-    // http://localhost:4173/ig_follower_export_tool.html?user_id=32de27b0-6c76-4bce-a100-012048b814b2&email=jfl913@gmail.com
-    let currentUrl = window.location.href;
-    let params = new URL(currentUrl).searchParams;
-    userId = params.get('user_id');
-    email = params.get('email');
-    if (!userId || !email) {
+    // http://localhost:4173/ig-follower-export-tool.html?user_id=32de27b0-6c76-4bce-a100-012048b814b2&email=jfl913@outlook.com&price_id=pri_01hay5p34s30kyy77g867n1hws
+    let currentUrl = window.location.href
+    let params = new URL(currentUrl).searchParams
+    userId = params.get('user_id')
+    email = params.get('email')
+    priceId = params.get('price_id')
+    if (!userId || !email || !priceId || !chromeExtensionName) {
+        console.log('Checkout: Missing params')
         console.log('userId: ' + userId)
         console.log('email: ' + email)
+        console.log('priceId: ' + priceId)
+        console.log('chromeExtensionName: ' + chromeExtensionName)
         return
     }
 
@@ -41,7 +48,7 @@ function openCheckout() {
         },
         items: [
             {
-                priceId: 'pri_01hay5p34s30kyy77g867n1hws',
+                priceId: priceId,
                 quantity: 1
             }
         ],
@@ -54,12 +61,6 @@ function openCheckout() {
         }
     });
 }
-
-// This payment was declined by your bank.Please try again, or use a different payment method.Contact your bank for further information.
-
-// let currentUrl = window.location.href;
-// console.log(currentUrl);
-
 </script>
 
 <template>
