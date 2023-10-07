@@ -24,9 +24,9 @@ onMounted(() => {
         return
     }
 
-    Paddle.Environment.set("sandbox")
+    // Paddle.Environment.set("sandbox")
     Paddle.Setup({
-        seller: 14576,
+        seller: 176437,
         eventCallback: function (data) {
             console.log('eventCallback', data)
             if (data.name == 'checkout.completed') {
