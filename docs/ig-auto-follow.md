@@ -6,7 +6,7 @@ hero:
   name: "IG Auto Follow-Unfollow"
   text: "Grow Instagram Followers with Follow-Unfollow growth hack"
   tagline: Grow your Instagram Account Organically without getting BANNED! Use this extension on any Instagram profile to Auto Follow from their followers. You can also unfollow all the accounts that are not following you back on Instagram.
-  image: /ig-follower-export-tool.png
+  image: /ig-auto-follow.png
   actions:
     - theme: brand
       text: Add to Chrome
