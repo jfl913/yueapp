@@ -24,10 +24,10 @@ onMounted(() => {
         return
     }
 
-    // Paddle.Environment.set("sandbox")
+    // Paddle.Environment.set("sandbox") // 测试环境
     Paddle.Setup({
-        seller: 176437,
-        // seller: 14576,
+        seller: 176437, // 生产环境
+        // seller: 14576, // 测试环境
         eventCallback: function (data) {
             console.log('eventCallback', data)
             if (data.name == 'checkout.completed') {
