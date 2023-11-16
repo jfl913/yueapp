@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { ref } from 'vue'
 
-const freePlanFeatures = ['Download main images 3 times a day', 'Get the best image quality', 'Save images as .ZIP file format']
+const freePlanFeatures = ['Download images 3 times per day', 'Get the best image quality', 'Save images as .ZIP file format']
 const proPlanFeatures = ['Download main images', 'Download variants images', 'Download description images', 'Save all images in one click (main, variant, description)', 'Get the best image quality', 'Save images as .ZIP file format']
 
 </script>
