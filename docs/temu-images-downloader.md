@@ -10,7 +10,7 @@ hero:
   actions:
     - theme: brand
       text: Add to Chrome
-      link: https://chrome.google.com/webstore/detail/ig-auto-follow/iiaohnpoogjkomcdkhdfljgpglejpaad?hl=zh-CN&authuser=0
+      link: https://chromewebstore.google.com/detail/temu-images-downloader/mcmapejdcaphjkgijmdkbaodibkpamcc?hl=zh-CN
 
 features:
   - title: Feature One

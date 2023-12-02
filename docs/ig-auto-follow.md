@@ -10,8 +10,10 @@ hero:
   actions:
     - theme: brand
       text: Add to Chrome
-      link: https://chrome.google.com/webstore/detail/ig-auto-follow/iiaohnpoogjkomcdkhdfljgpglejpaad?hl=zh-CN&authuser=0
-
+      link: https://chromewebstore.google.com/detail/ig-auto-follow-unfollow/iiaohnpoogjkomcdkhdfljgpglejpaad
+    - theme: brand
+      text: Add to Edge
+      link: https://microsoftedge.microsoft.com/addons/detail/ig-auto-followunfollow/kpmddcnchbdoenhghgpgfdeahipcijle
 features:
   - title: Feature One
     details: Grow your Instagram followers without getting banned. 
