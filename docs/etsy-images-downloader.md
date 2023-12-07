@@ -10,7 +10,7 @@ hero:
   actions:
     - theme: brand
       text: Add to Chrome
-      link: https://chromewebstore.google.com/detail/shein-images-downloader/lphjpapkpnhhffgobpekcmeanpompeka
+      link: https://chromewebstore.google.com/detail/etsy-images-downloader/aakfimfbjikfkfeokmamllkomlejnpdi
 
 features:
   - title: Feature One
