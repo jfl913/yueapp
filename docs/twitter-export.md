@@ -10,7 +10,10 @@ hero:
   actions:
     - theme: brand
       text: Add to Chrome
-      link: https://chrome.google.com/webstore/detail/ig-follower-export-tool/iacchdhbljnmihoeeelcgljnajfafpkh?hl=zh-CN&authuser=0
+      link: https://chromewebstore.google.com/detail/twitter-export-followers/amflfbkcoeanhfcdcbebeimpjnoebakn
+    - theme: brand
+      text: Add to Edge
+      link: https://chromewebstore.google.com/detail/twitter-export-followers/amflfbkcoeanhfcdcbebeimpjnoebakn
 
 features:
   - title: Feature One
