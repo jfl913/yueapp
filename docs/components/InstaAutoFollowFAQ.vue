@@ -94,7 +94,7 @@ import { ref } from 'vue'
                             </h3>
                             <p class="text-gray-500 dark:text-gray-400">We have battle-tested this extension so that your
                                 account stays safe. It has a halt time of 10 mins before every follow/unfollow to keep your
-                                account safe. Unfortunately, Instagram has limits, and these limits vary from account to account. For this reason, we limit the processing time and the number of unfollows. We recommend using the extension sparingly to ensure its continuous functionality.</p>
+                                account safe. Unfortunately, Instagram has limits, and these limits vary from account to account. For this reason, we limit the processing time and the number of follows and unfollows. We recommend using the extension sparingly to ensure its continuous functionality.</p>
                         </div>
                         <div class="mb-10">
                             <h3 class="flex items-center mb-4 text-lg font-medium text-gray-900 dark:text-white">

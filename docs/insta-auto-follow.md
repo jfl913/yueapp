@@ -3,10 +3,10 @@
 layout: home
 
 hero:
-  name: "IG Auto Follow-Unfollow"
+  name: "IG Auto Follow & Unfollow"
   text: "Grow Instagram Followers with Follow-Unfollow growth hack"
-  tagline: Grow your Instagram Account Organically without getting BANNED! Use this extension on any Instagram profile to Auto Follow from their followers. You can also unfollow all the accounts that are not following you back on Instagram.
-  image: /ig-auto-follow.png
+  tagline: Get more Instagram followers automatically. Grow your account, expand your reach, build your brand and get more leads — organically.
+  image: /insta-auto-follow.png
   actions:
     - theme: brand
       text: Add to Chrome
@@ -26,11 +26,11 @@ features:
 ---
 
 <script setup>
-    import IGAutoFollowPricing from './components/IGAutoFollowPricing.vue'
-    import IGAutoFollowFAQ from './components/IGAutoFollowFAQ.vue'
+    import InstaAutoFollowPricing from './components/InstaAutoFollowPricing.vue'
+    import InstaAutoFollowFAQ from './components/InstaAutoFollowFAQ.vue'
     import Checkout from './Checkout.vue'
 </script>
 
-<IGAutoFollowPricing />
-<IGAutoFollowFAQ />
-<Checkout chrome-extension-name="ig_auto_follow" />
+<InstaAutoFollowPricing />
+<InstaAutoFollowFAQ />
+<Checkout chrome-extension-name="insta_follow" />
