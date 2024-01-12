@@ -3,14 +3,14 @@
 layout: home
 
 hero:
-  name: "IG Auto Follow & Unfollow"
-  text: "Grow Instagram Followers with Follow-Unfollow growth hack"
+  name: "Followers Pro"
+  text: "Attract real and relevant followers to grow your Instagram audience."
   tagline: Get more Instagram followers automatically. Grow your account, expand your reach, build your brand and get more leads — organically.
   image: /insta-auto-follow.png
   actions:
     - theme: brand
       text: Add to Chrome
-      link: https://chromewebstore.google.com/detail/ig-auto-follow-unfollow/iiaohnpoogjkomcdkhdfljgpglejpaad
+      link: https://chromewebstore.google.com/detail/followers-pro/iiaohnpoogjkomcdkhdfljgpglejpaad
     - theme: brand
       text: Add to Edge
       link: https://microsoftedge.microsoft.com/addons/detail/ig-auto-followunfollow/kpmddcnchbdoenhghgpgfdeahipcijle
