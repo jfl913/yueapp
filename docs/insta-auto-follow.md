@@ -10,10 +10,10 @@ hero:
   actions:
     - theme: brand
       text: Add to Chrome
-      link: https://chromewebstore.google.com/detail/followers-pro/iiaohnpoogjkomcdkhdfljgpglejpaad
+      link: https://chromewebstore.google.com/detail/followers-pro/icjfkeibgfjfkdfjjgafpkpfplpnbidc
     - theme: brand
       text: Add to Edge
-      link: https://microsoftedge.microsoft.com/addons/detail/ig-auto-followunfollow/kpmddcnchbdoenhghgpgfdeahipcijle
+      link: https://chromewebstore.google.com/detail/followers-pro/icjfkeibgfjfkdfjjgafpkpfplpnbidc
 features:
   - title: Feature One
     details: You can follow the user's followers and following automatically
