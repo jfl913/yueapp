@@ -3,28 +3,23 @@
 layout: home
 
 hero:
-  name: "Super Bookmarks"
-  text: "Open your bookmarks conveniently and quickly"
-  tagline: You only need to press the shortcut key (Ctrl+B on Windows, Command+E on Mac) to quickly open this extension and open bookmarks. At the same time, Super Bookmarks also supports search function, which can quickly find the bookmarks you need to open.
-  image: /icon.png
-  actions:
-    - theme: brand
-      text: Add to Chrome
-      link: https://chrome.google.com/webstore/detail/super-bookmarks/cegbchhkonojpbihpejohfhpddldkhgn?hl=zh-CN&authuser=0
+  name: "Yue Apps"
+  text: "To Boost Your Daily Work Efficiency with Extensions (Add-Ons)"
+  tagline: 
+  image: /yueapps.png
 
 features:
-  - title: Feature One
-    details: Command + E(Mac)、Ctrl+B(Windows) to quickly access bookmarks.
-  - title: Feature Two
-    details: Enter keywords directly to search.
-  - title: Feature Three
-    details: More features(manage bookmarks, edit bookmarks, drag and drop bookmarks) are coming soon.
+  - icon:
+      src: /temu-images-downloader.png
+    title: Temu Images Downloader
+    details: Download hi-res images for temu in one click.
+    link: /temu-images-downloader
+  - icon:
+      src: /bookmark.png
+    title: Super Bookmarks
+    details: Open your bookmarks conveniently and quickly.
+    link: /bookmark
 ---
 
-<img src="./screenshot.png" style="margin: 40px auto 0px auto;width: 1150px;" alt="Super Bookmarks">
-
 <script setup>
-    import Pricing from './Pricing.vue'
 </script>
-
-<Pricing />
