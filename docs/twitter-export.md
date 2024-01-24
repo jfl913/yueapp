@@ -28,10 +28,10 @@ features:
 
 <script setup>
     import TwitterExportPricing from './components/TwitterExportPricing.vue'
-    import TwitterExportProFAQ from './components/TwitterExportProFAQ.vue'
+    import TwitterExportFAQ from './components/TwitterExportFAQ.vue'
     import Checkout from './Checkout.vue'
 </script>
 
 <TwitterExportPricing />
-<TwitterExportProFAQ />
+<TwitterExportFAQ />
 <Checkout chrome-extension-name="tw_export" />
