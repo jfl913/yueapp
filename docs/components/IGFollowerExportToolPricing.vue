@@ -74,7 +74,7 @@ import { ref } from 'vue'
                                           d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
                                           clip-rule="evenodd"></path>
                                 </svg>
-                                <span>Export up to <span class="font-semibold">unlimited</span> followers at a time</span>
+                                <span>Export up to <span class="font-semibold">100000</span> followers at a time</span>
                             </li>
                             <li class="flex items-center space-x-3">
                                 <!-- Icon -->
@@ -84,7 +84,7 @@ import { ref } from 'vue'
                                           d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
                                           clip-rule="evenodd"></path>
                                 </svg>
-                                <span>Export up to <span class="font-semibold">unlimited</span> following at a time</span>
+                                <span>Export up to <span class="font-semibold">100000</span> following at a time</span>
                             </li>
                             <li class="flex items-center space-x-3">
                                 <!-- Icon -->
@@ -113,7 +113,7 @@ import { ref } from 'vue'
                          class="flex flex-col p-6 mx-auto max-w-lg text-center text-gray-900 bg-white rounded-lg border border-gray-100 shadow dark:border-gray-600 xl:p-8 dark:bg-gray-800 dark:text-white">
                         <h3 class="mb-4 text-2xl font-semibold">Quarterly Pro</h3>
                         <div class="flex justify-center items-baseline my-8">
-                            <span class="mr-2 text-5xl font-extrabold">$17.99</span>
+                            <span class="mr-2 text-5xl font-extrabold">$24.99</span>
                             <span class="text-gray-500 dark:text-gray-400" dark:text-gray-400>/quarter</span>
                         </div>
                         <!-- List -->
@@ -126,7 +126,7 @@ import { ref } from 'vue'
                                           d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
                                           clip-rule="evenodd"></path>
                                 </svg>
-                                <span>Export up to <span class="font-semibold">unlimited</span> followers at a time</span>
+                                <span>Export up to <span class="font-semibold">100000</span> followers at a time</span>
                             </li>
                             <li class="flex items-center space-x-3">
                                 <!-- Icon -->
@@ -136,7 +136,7 @@ import { ref } from 'vue'
                                           d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
                                           clip-rule="evenodd"></path>
                                 </svg>
-                            <span>Export up to <span class="font-semibold">unlimited</span> following at a time</span>
+                            <span>Export up to <span class="font-semibold">100000</span> following at a time</span>
                         </li>
                         <li class="flex items-center space-x-3">
                             <!-- Icon -->
@@ -178,7 +178,7 @@ import { ref } from 'vue'
                                       d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
                                       clip-rule="evenodd"></path>
                             </svg>
-                            <span>Export up to <span class="font-semibold">unlimited</span> followers at a time</span>
+                            <span>Export up to <span class="font-semibold">100000</span> followers at a time</span>
                         </li>
                         <li class="flex items-center space-x-3">
                             <!-- Icon -->
@@ -188,7 +188,7 @@ import { ref } from 'vue'
                                       d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
                                       clip-rule="evenodd"></path>
                             </svg>
-                            <span>Export up to <span class="font-semibold">unlimited</span> following at a time</span>
+                            <span>Export up to <span class="font-semibold">100000</span> following at a time</span>
                         </li>
                         <li class="flex items-center space-x-3">
                             <!-- Icon -->

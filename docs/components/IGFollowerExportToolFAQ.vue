@@ -37,7 +37,7 @@ import { ref } from 'vue'
                                 </svg>
                                 What is the difference between a Free account and a Pro account?
                             </h3>
-                            <p class="text-gray-500 dark:text-gray-400">Free users can only export 150 followers/following at a time. Upgrade to pro, you can export unlimited followers/following at a time.</p>
+                            <p class="text-gray-500 dark:text-gray-400">Free users can only export 150 followers/following at a time. Upgrade to pro, you can export 100000 followers/following at a time.</p>
                         </div>
                     </div>
                     <div>
@@ -51,7 +51,7 @@ import { ref } from 'vue'
                                 </svg>
                             How to cancel my subscription?
                         </h3>
-                        <p class="text-gray-500 dark:text-gray-400">You can cancel your premium subscription at any time, by clicking the PRO button, and finally clicking the  UNSUBSCRIBE button. </p>
+                        <p class="text-gray-500 dark:text-gray-400">You can cancel your premium subscription at any time, just send an email to jfl913@gmail.com and tell us your account email. </p>
                     </div>
                     <div class="mb-10">
                         <h3 class="flex items-center mb-4 text-lg font-medium text-gray-900 dark:text-white">
@@ -63,7 +63,7 @@ import { ref } from 'vue'
                             </svg>
                             How to refund?
                         </h3>
-                        <p class="text-gray-500 dark:text-gray-400">You can refund within 7 days, just send an email to <a href="mailto:jfl913@gmail.com">jfl913@gmail.com</a> and tell us your account email and receipt order id, You will receive your refund in the next few days.</p>
+                        <p class="text-gray-500 dark:text-gray-400">You can refund within 7 days, just send an email to <a href="mailto:jfl913@gmail.com">jfl913@gmail.com</a> and tell us your account email, You will receive your refund in the next few days.</p>
                     </div>
                 </div>
             </div>

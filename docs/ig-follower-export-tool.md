@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "IG Follower Export Tool"
+  name: "IG Exporter - Follower Export Tool"
   text: ""
-  tagline: IG Follower Export Tool can automatically extract user profiles from Instagram followers and following, and export them to CSV with one click.
+  tagline: IG Exporter can automatically extract user profiles from Instagram followers and following, and export them to CSV with one click.
   image: /ig-follower-export-tool.png
   actions:
     - theme: brand
@@ -18,7 +18,7 @@ features:
   - title: Feature Two
     details: Export following list from Instagram to CSV.
   - title: Feature Three
-    details: Extract user profile, including user id, username, full name, profile url, avatar url and is verified, etc.
+    details: Extract user profile, including id, username, full_name, profile_url, is_verified, followed_by_you, avatar_url.
 ---
 
 <script setup>
@@ -29,4 +29,4 @@ features:
 
 <IGFollowerExportToolPricing />
 <IGFollowerExportToolFAQ />
-<Checkout chrome-extension-name="ig_follower_export_tool" />
+<!-- <Checkout chrome-extension-name="ig_follower_export_tool" /> -->
