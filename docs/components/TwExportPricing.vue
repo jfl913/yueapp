@@ -61,7 +61,7 @@ import { ref } from 'vue'
                          class="flex flex-col p-6 mx-auto max-w-lg text-center text-gray-900 bg-white rounded-lg border border-gray-100 shadow dark:border-gray-600 xl:p-8 dark:bg-gray-800 dark:text-white">
                         <h3 class="mb-4 text-2xl font-semibold">Monthly Pro</h3>
                         <div class="flex justify-center items-baseline my-8">
-                            <span class="mr-2 text-5xl font-extrabold">$9.99</span>
+                            <span class="mr-2 text-5xl font-extrabold">$11.99</span>
                             <span class="text-gray-500 dark:text-gray-400">/month</span>
                         </div>
                         <!-- List -->
@@ -103,7 +103,7 @@ import { ref } from 'vue'
                          class="flex flex-col p-6 mx-auto max-w-lg text-center text-gray-900 bg-white rounded-lg border border-gray-100 shadow dark:border-gray-600 xl:p-8 dark:bg-gray-800 dark:text-white">
                         <h3 class="mb-4 text-2xl font-semibold">Quarterly Pro</h3>
                         <div class="flex justify-center items-baseline my-8">
-                            <span class="mr-2 text-5xl font-extrabold">$24.99</span>
+                            <span class="mr-2 text-5xl font-extrabold">$27.99</span>
                             <span class="text-gray-500 dark:text-gray-400" dark:text-gray-400>/quarter</span>
                         </div>
                         <!-- List -->
@@ -145,7 +145,7 @@ import { ref } from 'vue'
                          class="flex flex-col p-6 mx-auto max-w-lg text-center text-gray-900 bg-white rounded-lg border border-gray-100 shadow dark:border-gray-600 xl:p-8 dark:bg-gray-800 dark:text-white">
                         <h3 class="mb-4 text-2xl font-semibold">Yearly Pro</h3>
                         <div class="flex justify-center items-baseline my-8">
-                            <span class="mr-2 text-5xl font-extrabold">$87.99</span>
+                            <span class="mr-2 text-5xl font-extrabold">$89.99</span>
                             <span class="text-gray-500 dark:text-gray-400">/year</span>
                         </div>
                         <!-- List -->
