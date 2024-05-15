@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Temu Images Downloader"
+  name: "Tm Images Downloader"
   text: "Download hi-res images for temu in one click"
   tagline: You can download the main image, variant images, and description images.
   image: /temu-images-downloader.png
