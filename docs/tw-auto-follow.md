@@ -10,10 +10,10 @@ hero:
   actions:
     - theme: brand
       text: Add to Chrome
-      link: https://chromewebstore.google.com/detail/twitter-unfollower/eilkgadngbcjchnpmndgafhaihmohfho
+      link: https://chromewebstore.google.com/detail/twitter-auto-follow/fmkhphcddlhkmggaldkibecjmgpkbpdl
     - theme: brand
       text: Add to Edge
-      link: https://chromewebstore.google.com/detail/twitter-unfollower/eilkgadngbcjchnpmndgafhaihmohfho
+      link: https://chromewebstore.google.com/detail/twitter-auto-follow/fmkhphcddlhkmggaldkibecjmgpkbpdl
 
 features:
   - title: Feature One
